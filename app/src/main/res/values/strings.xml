@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">English Learning Pro</string>
+    <string name="app_description">Master English Speaking with AI Conversations</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_lessons">Lessons</string>
+    <string name="nav_practice">Practice</string>
+    <string name="nav_progress">Progress</string>
+    <string name="nav_settings">Settings</string>
+
+    <!-- Sections -->
+    <string name="section_listening">Listening</string>
+    <string name="section_pronunciation">Pronunciation</string>
+    <string name="section_shadowing">Shadowing</string>
+    <string name="section_speaking">Speaking</string>
+    <string name="section_reading">Reading Aloud</string>
+    <string name="section_learning">Learning</string>
+    <string name="section_interview">Interview Prep</string>
+
+    <!-- Buttons -->
+    <string name="btn_start">Start</string>
+    <string name="btn_stop">Stop</string>
+    <string name="btn_pause">Pause</string>
+    <string name="btn_resume">Resume</string>
+    <string name="btn_record">Record</string>
+    <string name="btn_play">Play</string>
+    <string name="btn_submit">Submit</string>
+    <string name="btn_skip">Skip</string>
+    <string name="btn_retry">Try Again</string>
+    <string name="btn_next">Next</string>
+    <string name="btn_previous">Previous</string>
+    <string name="btn_save">Save</string>
+    <string name="btn_delete">Delete</string>
+    <string name="btn_edit">Edit</string>
+
+    <!-- Settings -->
+    <string name="settings_accent">Accent</string>
+    <string name="settings_accent_usa">USA English</string>
+    <string name="settings_accent_uk">UK English</string>
+    <string name="settings_theme">Theme</string>
+    <string name="settings_theme_light">Light</string>
+    <string name="settings_theme_dark">Dark</string>
+    <string name="settings_system">System</string>
+    <string name="settings_save_data_mode">Save Data Mode</string>
+    <string name="settings_notifications">Notifications</string>
+    <string name="settings_language">Language</string>
+    <string name="settings_about">About App</string>
+    <string name="settings_privacy">Privacy Policy</string>
+    <string name="settings_terms">Terms of Service</string>
+
+    <!-- Feedback -->
+    <string name="feedback_grammar">Grammar</string>
+    <string name="feedback_pronunciation">Pronunciation</string>
+    <string name="feedback_vocabulary">Vocabulary</string>
+    <string name="feedback_fluency">Fluency</string>
+    <string name="feedback_tonality">Tonality</string>
+    <string name="feedback_clarity">Clarity</string>
+    <string name="feedback_score">Score</string>
+    <string name="feedback_suggestion">Suggestions</string>
+
+    <!-- Messages -->
+    <string name="msg_recording">Recording...</string>
+    <string name="msg_processing">Processing...</string>
+    <string name="msg_analyzing">Analyzing...</string>
+    <string name="msg_no_data">No data available</string>
+    <string name="msg_error">An error occurred</string>
+    <string name="msg_retry">Please try again</string>
+
+    <!-- Characters -->
+    <string name="char_james">James</string>
+    <string name="char_sarah">Sarah</string>
+    <string name="char_alex">Alex</string>
+    <string name="char_emma">Emma</string>
+    <string name="char_david">David</string>
+    <string name="char_olivia">Olivia</string>
+    <string name="char_mike">Mike</string>
+    <string name="char_lucy">Lucy</string>
+</resources>
